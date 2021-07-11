@@ -1,4 +1,4 @@
-{
+{ 
     "语言(Language)": "Language(语言)",
     "椰羊cocogoat": "Cocogoat",
     "圣遗物": "Artifacts",
@@ -121,5 +121,20 @@
     "已识别 %1 个": "%1 scanned",
     "该版本暂不支持自动更新": "Auto upgrade is not supported in this wersion.",
     "请下载并安装ViGEm驱动 (https://vigem.org/) 以使用手柄模拟功能。": "Please download and install the ViGem Driver (https://vigem.org/)  to enable joystick simulation.",
-    "关闭": "Close"
+    "关闭": "Close",
+    "暴击率" : "Crit rate",
+    "暴击伤害" : "Critical Damage",
+    "攻击力" : "Attack power",
+    "元素精通": "Elemental Mastery",
+    "元素充能效率" : "Elemental charging efficiency",
+    "生命值" : "life value",
+    "防御力" : "Defense",
+    "物理伤害加成" : "Physical damage bonus",
+    "治疗加成" : "Healing bonus",
+    "岩元素伤害加成" : "Geo elemental damage bonus",
+    "风元素伤害加成" : "Anemo elemental damage bonus",
+    "冰元素伤害加成" : "Cryo elemental damage bonus",
+    "水元素伤害加成" : "Hydro elemental damage bonus",
+    "火元素伤害加成" : "Pyro elemental damage bonus",
+    "雷元素伤害加成" : "Electro elemental damage bonus"
 }
